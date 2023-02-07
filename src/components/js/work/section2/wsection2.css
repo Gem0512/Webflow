@@ -1,0 +1,44 @@
+.wsection2 {
+  padding-top: 50px;
+  color: black;
+  height: 450px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  color: rgb(77, 77, 77);
+}
+.wsection2 .st2-l {
+  padding-right: 20px;
+  width: 300px;
+}
+.wsection2 .st2-l .title {
+  font-weight: bold;
+  font-size: 26px;
+}
+.wsection2 .st2-l .tag {
+  display: flex;
+}
+.wsection2 .st2-l .tag .web {
+  padding-right: 30px;
+}
+.wsection2 .st2-l .content {
+  font-size: 15px;
+}
+.wsection2 .st2-l button {
+  padding: 15px 15px;
+  border: none;
+  background-color: #c7aa8b;
+  color: white;
+  font-weight: bold;
+}
+.wsection2 .st2-l button:hover {
+  border: 2px solid #c7aa8b;
+  background-color: white;
+  color: #c7aa8b;
+}
+.wsection2 .st2-r img {
+  height: 400px;
+  width: 600px;
+}
+
+/*# sourceMappingURL=wsection2.css.map */

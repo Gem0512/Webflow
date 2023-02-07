@@ -1,0 +1,39 @@
+.section1{
+    background-color: #333;
+    height:260px;
+    // width:100%;
+    margin-top: 60px;
+    display:flex;
+    padding-top:10px;
+    padding-left: 370px;
+}
+.section-l {
+    padding-right: 40px;
+    p{
+        font-size: 47px;
+        margin-bottom: -25px;
+    }
+    span{
+        margin-top: 50px;   
+    }
+    br{
+        margin-bottom: 30px;
+    }
+}
+
+.section-r{
+    button{
+        margin-top:100px;
+        margin-left: 300px;
+        padding:15px;
+        cursor: pointer;
+        color:#c7aa8b;
+        background-color: #333;
+        border:2px solid#c7aa8b;
+        font-weight: bold;
+    }
+}
+button:hover{
+    background-color: #c7aa8b;
+    color:#333;
+}

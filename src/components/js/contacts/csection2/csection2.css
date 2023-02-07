@@ -1,0 +1,66 @@
+.csection2 {
+  display: flex;
+  justify-content: center;
+  height: 560px;
+  align-items: center;
+  background-color: white;
+  color: rgb(77, 77, 77);
+}
+.csection2 .csection2-l {
+  padding-top: 40px;
+  padding-right: 40px;
+}
+.csection2 .csection2-l .one {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.csection2 .csection2-l .two {
+  font-size: 18px;
+}
+.csection2 .csection2-l .two img {
+  width: 100px;
+  margin-left: -75px;
+  margin-bottom: -15px;
+}
+.csection2 .csection2-l .three {
+  font-size: 18px;
+}
+.csection2 .csection2-l .three img {
+  width: 100px;
+  margin-left: -75px;
+  margin-bottom: -15px;
+}
+.csection2 .csection2-r {
+  margin-top: 0px;
+  width: 650px;
+  height: 460px;
+  background-color: rgb(199, 170, 139);
+  padding-top: 100px;
+  padding-left: 40px;
+}
+.csection2 .csection2-r .input4 input {
+  padding-bottom: 40px;
+}
+.csection2 .csection2-r input {
+  border: none;
+  padding: 15px 15px;
+  width: 550px;
+  margin-bottom: 30px;
+}
+.csection2 .csection2-r input:hover {
+  background-color: #cccccc;
+}
+.csection2 .csection2-r .bt button {
+  padding: 12px;
+  color: rgb(199, 170, 139);
+  background-color: rgb(77, 77, 77);
+  border: 2px solid rgb(77, 77, 77);
+  font-weight: bold;
+}
+.csection2 .csection2-r .bt button:hover {
+  background-color: rgb(199, 170, 139);
+  color: rgb(77, 77, 77);
+}
+
+/*# sourceMappingURL=csection2.css.map */

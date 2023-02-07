@@ -1,0 +1,61 @@
+.prev-next {
+  display: flex;
+  justify-content: center;
+}
+
+.section4 {
+  padding-top: 30px;
+  margin-top: -20px;
+  color: white;
+  height: 275px;
+  background-color: #c7aa8b;
+}
+.section4 p {
+  display: flex;
+  color: rgba(50, 50, 50, 0.36);
+  justify-content: center;
+}
+.section4 .fa {
+  margin-left: -60px;
+}
+
+.prev {
+  padding: 0 50px;
+  border-right: 5px solid #4d4d4d;
+}
+.prev p {
+  font-size: 30px;
+  color: #4d4d4d;
+  font-weight: bold;
+}
+.prev button {
+  border: 2px solid white;
+  padding: 10px;
+  margin-left: 115px;
+  color: white;
+  background-color: rgba(77, 77, 77, 0.2);
+}
+
+.next {
+  padding: 0 50px;
+}
+.next p {
+  font-size: 30px;
+  color: #4d4d4d;
+  font-weight: bold;
+}
+.next button {
+  border: 2px solid white;
+  padding: 10px;
+  margin-left: 5px;
+  color: white;
+  background-color: rgba(77, 77, 77, 0.2);
+}
+
+button:hover {
+  background-color: white;
+  color: #4d4d4d;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=section4.css.map */

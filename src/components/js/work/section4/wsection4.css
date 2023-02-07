@@ -1,0 +1,26 @@
+.wsection4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  background-color: #4d4d4d;
+}
+.wsection4 button {
+  color: #c7aa8b;
+  border: 2px solid #c7aa8b;
+  padding: 15px 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: #4d4d4d;
+}
+.wsection4 .s5-1 {
+  color: #858585;
+  font-size: 15px;
+}
+
+.wsection4 button:hover {
+  background-color: #c7aa8b;
+  color: #4d4d4d;
+}
+
+/*# sourceMappingURL=wsection4.css.map */
